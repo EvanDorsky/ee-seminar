@@ -1,0 +1,11 @@
+# Site settings
+title: Practical Circuits @ Olin '16
+email: evan.dorsky@gmail.com
+description: >
+    Landing page for the EE seminar spring '16.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://evandorsky.github.io" # the base hostname & protocol for your site
+github_username: EvanDorsky
+
+# Build settings
+markdown: kramdown

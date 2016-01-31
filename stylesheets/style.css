@@ -1,0 +1,28 @@
+@font-face {
+  font-family: DIN;
+  src: url("/font/DIN_OT/DINOT-Light.otf") format('opentype');
+  font-weight: 300;
+}
+@font-face {
+  font-family: DIN;
+  src: url("/font/DIN_OT/DINOT.otf") format('opentype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: DIN;
+  src: url("/font/DIN_OT/DINOT-Medium.otf") format('opentype');
+  font-weight: 500;
+}
+@font-face {
+  font-family: DIN;
+  src: url("/font/DIN_OT/DINOT-Bold.otf") format('opentype');
+  font-weight: 700;
+}
+body {
+  font-family: DIN;
+  font-weight: 300;
+  font-size: 14pt;
+  line-height: 1.2;
+  background-color: #000;
+  color: #fff;
+}
