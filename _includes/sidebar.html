@@ -1,4 +1,4 @@
-<a class="home" href="{{ site.baseurl }}/"><h1>EE Seminar</h1></a>
+<a class="home" href="{{ site.baseurl }}/"><h1>Practical EE</h1></a>
 <ul id="class-list">
 {% for post in site.posts reversed %}
     <a href={{ post.url | prepend: site.baseurl }}><li {% if page.id == post.id %}class="selected"{% endif %}>
