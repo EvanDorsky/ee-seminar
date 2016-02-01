@@ -4,7 +4,7 @@ layout: default
 
 # Time and Place
 
-Wednesday 8:00–9:40pm in AC428 (ISIM Lab)
+[Wednesday 8:00–9:40pm in AC428 (ISIM Lab)][ical]
 
 # Course Equipment
 
@@ -60,3 +60,4 @@ The independent study will consist of about 12 weekly 100-minute sessions with l
             - Zener
 
 [lsquirt]: http://www.amazon.com/Leatherman-831203-Squirt-Keychain-Multi-Tool/dp/B003H3HB4K
+[ical]: {{ site.baseurl }}/Practical EE.ics
