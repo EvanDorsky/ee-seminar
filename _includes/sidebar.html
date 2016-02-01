@@ -1,0 +1,8 @@
+<a class="home" href="/"><h1>EE Seminar</h1></a>
+<ul id="class-list">
+{% for post in site.posts reversed %}
+    <a href={{ post.url }}><li {% if page.id == post.id %}class="selected"{% endif %}>
+        <h2>{{ post.title }}</h2>
+    </li></a>
+{% endfor %}
+</ul>

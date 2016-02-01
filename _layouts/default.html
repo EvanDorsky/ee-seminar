@@ -1,5 +1,10 @@
 {% include header.html %}
-    <div id="container">
+<div id="container">
+    <div id="sidebar">
+        {% include sidebar.html %}
+    </div>
+    <div id="main">
         {{ content }}
     </div>
+</div>
 {% include footer.html %}

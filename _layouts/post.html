@@ -1,8 +1,10 @@
 {% include header.html %}
-    <header>
-        {{ page.header }}
-    </header>
-    <div id="container" class="post">
+<div id="container" class="post">
+    <div id="sidebar">
+        {% include sidebar.html %}
+    </div>
+    <div id="main">
         {{ content }}
     </div>
+</div>
 {% include footer.html %}
