@@ -18,15 +18,15 @@
     src url('/ee-seminar/font/DIN_OT/DINOT-Bold.otf') format('opentype')
     font-weight 700
 
+font-size = 13pt
+text-dark = #111216
+text-lite = lighten(text-dark, 97%)
+
 a
     color inherit
 
     &:active
-        color blue
-
-font-size = 13pt
-text-dark = #111216
-text-lite = lighten(text-dark, 97%)
+        color lighten(text-dark, 50%)
 
 *
     margin 0
@@ -70,6 +70,7 @@ p
 #main
     padding 1rem
     flex 0 1 auto
+    width 100%
     overflow scroll
 
 ul#class-list

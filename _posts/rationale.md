@@ -1,9 +1,9 @@
 ---
-title: Day 0
+title: Intro
 layout: default
 ---
 
-# Day 0
+# Intro
 
 I've gained a significant fraction of my electrical engineering skills and knowledge through non-Olin-class channels:
 
