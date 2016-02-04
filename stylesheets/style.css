@@ -93,3 +93,6 @@ ul#class-list li:hover {
   color: #f7f7f9;
   background-color: #111216;
 }
+#main.post img {
+  width: 100%;
+}

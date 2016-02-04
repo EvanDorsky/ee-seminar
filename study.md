@@ -1,32 +1,6 @@
----
-layout: default
----
-
-# Time and Place
-
-[Wednesday 8:00–9:40pm in AC428 (ISIM Lab)][ical]
-
-# Course Equipment
-
-- Required
-    - Analog Discovery
-    - Breadboard
-        - Breadboard power supply
-            + Cable
-            + Computer/AC adapter (for 5V)
-    - Wire stripper/cutter
-- Nice to have
-    - Needle-nose pliers
-
-Recommended: [Leatherman Squirt ES4][lsquirt] (miniature wire stripper/cutter and needle-nose pliers moonlighting as a multi-tool).
-
-There are some wire strippers in AC428 but probably not enough for everyone.
-
-Hopefully you all still have your breadboards and power supplies -- but I have some extra breadboards and there are some power supplies in the lab.
-
-I'd like to use oscilloscopes but bring your Analog Discovery's for now, since there aren't enough scopes.
-
 # Plan of Study
+
+This independent study is set up like a class -- a proto-student seminar. I (Evan Dorsky) will instruct a number of students, some of whom are pursuing credit. I am also pursuing credit for the instruction of this "course".
 
 The independent study will consist of about 12 weekly 100-minute sessions with little to no required outside work. Students will build practical circuits while learning about related electrical engineering concepts. Their work will culminate in a multi-week final project, drawing on the skills and knowledge they have gained over the course of the semester.
 
@@ -64,5 +38,12 @@ The independent study will consist of about 12 weekly 100-minute sessions with l
 
 Students will be assessed based on their grasp of the concepts and the quality of their circuits, including their final project.
 
-[lsquirt]: http://www.amazon.com/Leatherman-831203-Squirt-Keychain-Multi-Tool/dp/B003H3HB4K
-[ical]: {{ site.baseurl }}/Practical EE.ics
+## Enrollment
+
+- Evan Dorsky '16 (instructor)
+- Diego Garcia '19
+- Lydia Zuehsow '19
+- Yoonyoung (Jamie) Cho '19
+- Paige Pfenninger '19
+- Shreya Rangarajan '18
+- Mindy Tieu '17
