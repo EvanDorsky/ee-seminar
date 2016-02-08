@@ -3,19 +3,20 @@
 ## Whole time
 - Riley
 - Ellie
-- Mindy
-- Paige
-- Lydia
-- Diego
+- Mindy*
+- Paige*
+- Lydia*
+- Diego*
 - Julia
 
 ## Missed some
-- Jamie
+- Jamie*
 - Kevin
 
 # Poorly-explained things
 
 - solution to the RC circuit
+- Vdd and Vss
 - how the schmitt trigger works (unstable equilibrium)
 - positive/negative feedback
 - how to size components
