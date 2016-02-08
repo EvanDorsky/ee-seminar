@@ -100,6 +100,7 @@ ul#class-list li:hover {
   width: 50%;
   float: right;
   clear: both;
+  padding: 1rem;
 }
 #main.post blockquote {
   font-style: italic;
