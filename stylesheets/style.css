@@ -101,3 +101,8 @@ ul#class-list li:hover {
   float: right;
   clear: both;
 }
+#main.post blockquote {
+  font-style: italic;
+  font-size: 1.5rem;
+  color: #bebece;
+}
