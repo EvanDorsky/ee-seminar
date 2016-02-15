@@ -54,7 +54,9 @@ h2 {
   font-weight: 400;
 }
 h3 {
-  border-bottom: 1px solid #008cff;
+  border-bottom: 1px solid #dbdbe4;
+  padding-bottom: 0em;
+  margin-bottom: -1rem;
 }
 h3,
 h4,
@@ -62,7 +64,8 @@ h5,
 h6 {
   font-weight: 300;
 }
-ul {
+ul,
+ol {
   padding-left: 2.5rem;
 }
 p {
@@ -115,8 +118,9 @@ ul#class-list li.topic h2 {
   width: 100%;
   overflow: scroll;
 }
-#main.post .whiteboard * {
+#main.post .full-width * {
   width: 100%;
+  box-sizing: border-box;
 }
 #main.post img {
   width: 50%;

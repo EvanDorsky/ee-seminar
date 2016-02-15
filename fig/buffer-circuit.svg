@@ -2,8 +2,7 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="836.958px" height="392.98px" viewBox="0 0 836.958 392.98" enable-background="new 0 0 836.958 392.98"
-	 xml:space="preserve">
+	 width="397.48px" height="392.98px" viewBox="0 0 397.48 392.98" enable-background="new 0 0 397.48 392.98" xml:space="preserve">
 <rect x="463.533" y="33.73" fill="#FF88AD" width="75" height="300"/>
 <rect x="538.533" y="33.73" fill="#FFCE00" width="150.002" height="300"/>
 <rect x="688.535" y="33.73" fill="#7BC3FF" width="74.998" height="300"/>
@@ -22,8 +21,10 @@
 <text transform="matrix(0.583 0 0 0.583 495.4712 32.2227)" fill="#FF88AD" font-family="'DINOT'" font-size="26">+ </text>
 <text transform="matrix(1 0 0 1 507.1577 23.5645)" fill="#FF88AD" font-family="'DINOT'" font-size="26">&lt; V</text>
 <text transform="matrix(0.583 0 0 0.583 541.3989 32.2227)" fill="#FF88AD" font-family="'DINOT'" font-size="26">-</text>
-<text transform="matrix(1 0 0 1 765.563 187.731)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">V</text>
-<text transform="matrix(0.583 0 0 0.583 779.7588 196.3892)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">+</text>
+<text transform="matrix(1 0 0 1 765.8242 187.731)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">V</text>
+<text transform="matrix(0.583 0 0 0.583 780.02 196.3892)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">+ </text>
+<text transform="matrix(1 0 0 1 791.7065 187.731)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">- V</text>
+<text transform="matrix(0.583 0 0 0.583 823.4521 196.3892)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">-</text>
 <text transform="matrix(1 0 0 1 566.7109 23.5645)" fill="#FFCE00" font-family="'DINOT'" font-size="26">3. V</text>
 <text transform="matrix(0.583 0 0 0.583 607.9717 32.2227)" fill="#FFCE00" font-family="'DINOT'" font-size="26">+ </text>
 <text transform="matrix(1 0 0 1 619.6582 23.5645)" fill="#FFCE00" font-family="'DINOT'" font-size="26">= V</text>
