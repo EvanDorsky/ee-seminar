@@ -1,7 +1,8 @@
 <a class="home" href="{{ site.baseurl }}/"><h1>Practical EE</h1></a>
 <ul id="class-list">
 {% for post in site.posts reversed %}
-    <a href={{ post.url | prepend: site.baseurl }}><li {% if page.id == post.id %}class="selected"{% endif %}>
+    <a href={{ post.url | prepend: site.baseurl }}>
+    <li class="{% if page.id == post.id %}selected {% endif %}{{ post.categories[0] }}">
         <h2>{{ post.title }}</h2>
     </li></a>
 {% endfor %}
