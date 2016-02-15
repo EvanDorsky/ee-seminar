@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="841.458px" height="397.48px" viewBox="0 0 841.458 397.48" enable-background="new 0 0 841.458 397.48"
+	 xml:space="preserve">
+<rect x="466.378" y="66.207" fill="#FF88AD" width="150" height="300"/>
+<rect x="616.378" y="66.207" fill="#7BC3FF" width="150" height="300"/>
+<line fill="none" stroke="#FFCE00" stroke-width="7" stroke-miterlimit="10" x1="616.378" y1="66.207" x2="616.378" y2="366.207"/>
+<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="616.378" y1="66.207" x2="616.378" y2="366.207"/>
+<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="616.378" y1="216.207" x2="766.378" y2="216.207"/>
+<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="466.378" y1="216.207" x2="616.378" y2="216.207"/>
+<polyline fill="none" stroke="#231F20" stroke-width="3" stroke-miterlimit="10" points="466.378,291.207 616.378,291.207 
+	616.378,141.207 766.378,141.207 "/>
+<text transform="matrix(1 0 0 1 578.0454 129.957)" font-family="'DINOT'" font-size="26">V</text>
+<text transform="matrix(0.583 0 0 0.583 592.2412 138.6152)" font-family="'DINOT'" font-size="26">dd</text>
+<text transform="matrix(1 0 0 1 622.8784 314.54)" font-family="'DINOT'" font-size="26">V</text>
+<text transform="matrix(0.583 0 0 0.583 637.0742 323.1982)" font-family="'DINOT'" font-size="26">ss</text>
+<text transform="matrix(1 0 0 1 644.5571 56.0405)" fill="#7BC3FF" font-family="'DINOT'" font-size="26">1. V</text>
+<text transform="matrix(0.583 0 0 0.583 685.8179 64.6987)" fill="#7BC3FF" font-family="'DINOT'" font-size="26">+ </text>
+<text transform="matrix(1 0 0 1 697.5044 56.0405)" fill="#7BC3FF" font-family="'DINOT'" font-size="26">&gt; V</text>
+<text transform="matrix(0.583 0 0 0.583 731.7456 64.6987)" fill="#7BC3FF" font-family="'DINOT'" font-size="26">-</text>
+<text transform="matrix(1 0 0 1 494.5566 56.0405)" fill="#FF88AD" font-family="'DINOT'" font-size="26">2. V</text>
+<text transform="matrix(0.583 0 0 0.583 535.8174 64.6987)" fill="#FF88AD" font-family="'DINOT'" font-size="26">+ </text>
+<text transform="matrix(1 0 0 1 547.5039 56.0405)" fill="#FF88AD" font-family="'DINOT'" font-size="26">&lt; V</text>
+<text transform="matrix(0.583 0 0 0.583 581.7451 64.6987)" fill="#FF88AD" font-family="'DINOT'" font-size="26">-</text>
+<text transform="matrix(1 0 0 1 768.6689 220.207)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">V</text>
+<text transform="matrix(0.583 0 0 0.583 782.8647 228.8652)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">+ </text>
+<text transform="matrix(1 0 0 1 794.5513 220.207)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">- V</text>
+<text transform="matrix(0.583 0 0 0.583 826.2969 228.8652)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">-</text>
+<text transform="matrix(1 0 0 1 569.5557 26.54)" fill="#FFCE00" font-family="'DINOT'" font-size="26">3. V</text>
+<text transform="matrix(0.583 0 0 0.583 610.8164 35.1982)" fill="#FFCE00" font-family="'DINOT'" font-size="26">+ </text>
+<text transform="matrix(1 0 0 1 622.5029 26.54)" fill="#FFCE00" font-family="'DINOT'" font-size="26">= V</text>
+<text transform="matrix(0.583 0 0 0.583 656.7441 35.1982)" fill="#FFCE00" font-family="'DINOT'" font-size="26">-</text>
+<text transform="matrix(1 0 0 1 598.4893 387.874)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">V</text>
+<text transform="matrix(0.583 0 0 0.583 612.6851 396.5322)" fill="#FFFFFF" font-family="'DINOT'" font-size="26">out</text>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" stroke-dasharray="6" x1="616.378" y1="141.207" x2="466.378" y2="141.207"/>
+<line fill="none" stroke="#231F20" stroke-miterlimit="10" stroke-dasharray="6" x1="766.378" y1="291.207" x2="616.378" y2="291.207"/>
+<g>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="172.582,171.545 172.582,102.544 
+		194.232,90.045 150.931,115.045 	"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="194.232,317.263 150.931,342.263 
+		172.582,329.763 172.582,260.762 	"/>
+	<g>
+		<polygon fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="101.737,137.152 262.626,216.208 
+			101.737,295.263 		"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="116.094" y1="255.735" x2="140.927" y2="255.735"/>
+		<g>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="116.094" y1="176.679" x2="140.927" y2="176.679"/>
+			
+				<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="128.51" y1="164.263" x2="128.51" y2="189.096"/>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="320.386" y1="216.207" x2="262.626" y2="216.207"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="101.737" y1="255.735" x2="46.386" y2="255.735"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="101.737" y1="176.679" x2="46.386" y2="176.679"/>
+<text transform="matrix(1 0 0 1 329.5273 216.207)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">V</text>
+<text transform="matrix(0.583 0 0 0.583 355.7349 232.1909)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">out</text>
+<text transform="matrix(1 0 0 1 7.5195 189.0957)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">V</text>
+<text transform="matrix(0.583 0 0 0.583 33.7271 205.0796)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">+</text>
+<text transform="matrix(1 0 0 1 8.8623 269.3735)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">V</text>
+<text transform="matrix(0.583 0 0 0.583 35.0698 285.3574)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">-</text>
+<text transform="matrix(1 0 0 1 180.6343 79.5571)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">V</text>
+<text transform="matrix(0.583 0 0 0.583 206.8418 95.541)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">dd</text>
+<text transform="matrix(1 0 0 1 113.9434 355.0566)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">V</text>
+<text transform="matrix(0.583 0 0 0.583 140.1509 371.0405)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">ss</text>
+</svg>
