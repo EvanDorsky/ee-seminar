@@ -90,24 +90,15 @@
 <text transform="matrix(0.583 0 0 0.583 116.7427 434.8711)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">+ </text>
 <text transform="matrix(1 0 0 1 138.3179 418.8877)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">= aV</text>
 <text transform="matrix(0.583 0 0 0.583 226.7793 434.8711)" fill="#FFFFFF" font-family="'DINOT'" font-size="48">out</text>
-<g>
-	<polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="178.582,172.28 178.582,103.279 
-		200.231,90.78 156.93,115.78 	"/>
-	<polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="200.232,317.998 156.931,342.998 
-		178.581,330.498 178.581,261.498 	"/>
-	<g>
-		<polygon fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="107.737,137.887 268.625,216.943 
-			107.737,295.998 		"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="122.093" y1="256.471" x2="146.926" y2="256.471"/>
-		<g>
-			
-				<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="122.093" y1="177.414" x2="146.926" y2="177.414"/>
-			
-				<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="134.509" y1="164.998" x2="134.509" y2="189.831"/>
-		</g>
-	</g>
-</g>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="178.582,172.28 178.582,103.279 
+	200.231,90.78 156.93,115.78 "/>
+<polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="200.232,317.998 156.931,342.998 
+	178.581,330.498 178.581,261.498 "/>
+<polygon fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" points="107.737,137.887 268.625,216.943 
+	107.737,295.998 "/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="122.093" y1="256.471" x2="146.926" y2="256.471"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="122.093" y1="177.414" x2="146.926" y2="177.414"/>
 <polyline fill="none" stroke="#231F20" stroke-width="3" stroke-miterlimit="10" points="468.035,141.89 655.536,141.89 
 	655.536,291.89 "/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" x1="134.51" y1="244.054" x2="134.51" y2="268.887"/>
 </svg>
