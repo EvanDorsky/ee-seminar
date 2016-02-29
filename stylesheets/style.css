@@ -49,14 +49,14 @@ h5,
 h6 {
   padding-bottom: 0.2em;
 }
-h1,
-h2 {
+h1 {
   font-weight: 400;
 }
+h2 {
+  font-weight: 300;
+}
 h3 {
-  border-bottom: 1px solid #dbdbe4;
-  padding-bottom: 0em;
-  margin-bottom: -1rem;
+  font-weight: 700;
 }
 ul,
 ol {
